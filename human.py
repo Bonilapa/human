@@ -8,4 +8,6 @@ Original file is located at
 """
 
 class Human:
-  pass
+  leg_number = 2
+  def walk():
+    print('Walk 1 step')
